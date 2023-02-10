@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(cpp 大作业.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+C:\Users\16062\source\repos\cpp 大作业\cpp1\user.h(494,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16062\source\repos\cpp 大作业\cpp1\user.h(445,1): warning C4102: “start”: 未引用的标签
+C:\Users\16062\source\repos\cpp 大作业\cpp1\manager.h(157,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16062\source\repos\cpp 大作业\cpp1\object.h(123,1): warning C4102: “start2”: 未引用的标签
+  cpp 大作业.vcxproj -> C:\Users\16062\source\repos\cpp 大作业\x64\Debug\cpp1.exe

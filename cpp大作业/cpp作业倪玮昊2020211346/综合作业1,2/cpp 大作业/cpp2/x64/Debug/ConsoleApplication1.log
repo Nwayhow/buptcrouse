@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\cpp2\user.h(496,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\cpp2\manager.h(146,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\cpp2\dev.h(231,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\cpp2\dev.h(176,1): warning C4102: “start”: 未引用的标签
+  user.h
+C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\cpp2\user.h(496,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\cpp2\object.h(197): warning C4715: “findobject::lanshou”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\16062\Desktop\文档\实验\cpp大作业\综合作业1,2\cpp 大作业\x64\Debug\cpp2.exe

@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/severbytcp.o
+debug/tcpclientsocket.o
+debug/moc_dev.o
+debug/moc_mainwindow.o
+debug/moc_manager.o
+debug/moc_object.o
+debug/moc_severbytcp.o
+debug/moc_tcpclientsocket.o
+debug/moc_user.o

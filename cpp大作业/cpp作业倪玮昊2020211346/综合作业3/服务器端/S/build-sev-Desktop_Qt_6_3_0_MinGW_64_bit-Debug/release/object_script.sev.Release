@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/severbytcp.o
+release/tcpclientsocket.o
+release/moc_dev.o
+release/moc_mainwindow.o
+release/moc_manager.o
+release/moc_object.o
+release/moc_severbytcp.o
+release/moc_tcpclientsocket.o
+release/moc_user.o
